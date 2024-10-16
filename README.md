@@ -1,7 +1,7 @@
 # Vehicle Manipulator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ### Demo Video
-(Coming soon)
+The demo video can be found [here](https://drive.google.com/file/d/1Sp3wXf55WB11G2vGp-dWE90YkidFCBGG/view?usp=sharing)
 ## Table of Contents
 - [Description](#Description)
 - [Installation](#Installation-Instructions)
