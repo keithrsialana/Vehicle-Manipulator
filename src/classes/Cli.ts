@@ -298,11 +298,10 @@ class Cli {
         // if it is not, tow the selected vehicle then perform actions on the truck to allow the user to select another action
         if (answers.vehicleToTow === truck){
           console.log(`The truck you've selected cannot tow itself`);
-          this.performActions();
         }else{
           truck.tow(answers.vehicleToTow);
-          this.performActions();
         }
+        this.performActions();
       });
   }
 
